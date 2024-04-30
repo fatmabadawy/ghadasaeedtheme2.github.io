@@ -24,7 +24,7 @@ header {
     font-weight:bold;
     text-transform: capitalize;
     margin-left: 55PX;
-    margin-right: 550PX;
+    margin-right: 650PX;
     
 }
 /*list part*/
@@ -59,7 +59,7 @@ header i:hover{
     padding:10px 35px 10px 20px;
     border-radius: 25px;
     top:7px;
-    right: 140px;
+    right: 110px;
     color: white;
 }
 .signup{
@@ -68,13 +68,13 @@ header i:hover{
     right: 27px;
     padding: 10px 10px 10px 8px;
     border: none;
-    right: 90px;
+    right: 60px;
     border-radius: 25px;
     background-color: #1298B7;
     
 }
 .login:hover{
-background-color:#65cfe7 ;
+background-color:#054857 ;
 }
 .theme2 i{
     font-size: 30px;
