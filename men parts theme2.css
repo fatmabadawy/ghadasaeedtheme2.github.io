@@ -485,36 +485,21 @@ flex-wrap: wrap;
     color:#d86d95;
     cursor: pointer;
 }
-.at{
-    display: grid;
-    grid-template-columns: repeat(2,1fr);
-}
 .iframe{
     margin: 30px;
     background-color: #699bb9;
+    margin-left: 350px;
+    border-radius: 20px;
+    width: 880px;
 }
 iframe{
-    width: 600px;
+    width: 800px;
     height: 300px;
     margin: 30px;
     padding-bottom: 30px;
 }
 .iframe p{
-    color: black;
+    color: white;
     font-size: 20px;
-    margin-bottom: 10px;
+    margin:10px 20px;
 }
-
-.ad{
-    background-color:white;
-    margin-top: 30px;
-    margin-bottom: 20px;
-}
-.ad video{
-    width:600px;
-    height: 300px;
-    margin: 50px;
-    margin-left: 100px;
-
-}
-
